@@ -1,0 +1,7 @@
+C:\Users\lincon\Documents\Projetos\AIP.ByteBank-CPP\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\lincon\Documents\Projetos\AIP.ByteBank-CPP\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\lincon\Documents\Projetos\AIP.ByteBank-CPP\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\lincon\Documents\Projetos\AIP.ByteBank-CPP\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\lincon\Documents\Projetos\AIP.ByteBank-CPP\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\lincon\Documents\Projetos\AIP.ByteBank-CPP\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\lincon\Documents\Projetos\AIP.ByteBank-CPP\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
